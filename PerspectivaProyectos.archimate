@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="m1" id="id-eef9c2d2b2f14a2492cc3c01fc9b5a6b" version="4.9.0">
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="PerspectivaProyectos" id="id-eef9c2d2b2f14a2492cc3c01fc9b5a6b" version="4.9.0">
   <folder name="Strategy" id="id-b61e6edf5c694a0a9517035a22be9d12" type="strategy"/>
   <folder name="Business" id="id-87e3bcbed8f34097a35731196be718e0" type="business">
     <element xsi:type="archimate:BusinessActor" name="Equipo de desarrollo" id="id-41cabd0b54b94f5fab302bf45c0f01b8"/>
